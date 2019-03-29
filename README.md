@@ -1,0 +1,3 @@
+# GcOpsObniz
+Obniz interface for [G.C. H/W gamepad emulator](https://github.com/GameControllerizer/GcHwEmulator).  
+Under construction...
