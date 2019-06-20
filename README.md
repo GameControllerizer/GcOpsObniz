@@ -5,4 +5,5 @@ Under construction...
 To compile gc-ops_browser.js:
 
 $ npm install
+
 $ sh bundle.sh
