@@ -1,0 +1,22 @@
+{
+  "name": "gcopsobniz",
+  "version": "1.0.0",
+  "description": "Obniz interface for [G.C. H/W gamepad emulator](https://github.com/GameControllerizer/GcHwEmulator).   Under construction...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GameControllerizer/GcOpsObniz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GameControllerizer/GcOpsObniz/issues"
+  },
+  "homepage": "https://github.com/GameControllerizer/GcOpsObniz#readme",
+  "dependencies": {
+    "node-red-contrib-game_controllerizer": "^0.3.7"
+  }
+}
