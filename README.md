@@ -11,7 +11,7 @@ hard wiring:
 ![hard wiring](https://i.gyazo.com/bc1b3efe5eb34975021ce90653fd21b0.jpg)
 
 
-To compile gc-ops_browser.js:
+To compile gc-ops_browser.js (usually you do not have to do this):
 ```bash
 $ npm install -g browserify
 $ npm install
