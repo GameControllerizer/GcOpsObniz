@@ -7,7 +7,7 @@ Example:
 
 ![smartphone example](https://i.gyazo.com/8311208b4f7e5d05bb55330fba61e4a1.png)
 
-hard wiring:
+hard wiring (note that the red cable in this figure is not actually used.):
 ![hard wiring](https://i.gyazo.com/bc1b3efe5eb34975021ce90653fd21b0.jpg)
 
 
