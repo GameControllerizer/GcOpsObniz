@@ -3,9 +3,8 @@ Obniz interface for [G.C. H/W gamepad emulator](https://github.com/GameControlle
 Under construction...
 
 To compile gc-ops_browser.js:
-
+```bash
 $ npm install -g browserify
-
 $ npm install
-
 $ sh bundle.sh
+```
