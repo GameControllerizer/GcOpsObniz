@@ -12,6 +12,7 @@ Example:
 Hard wiring (Note that the red cable in this picture is not actually used. So you can disconnect it.):
 ![hard wiring](https://i.gyazo.com/bc1b3efe5eb34975021ce90653fd21b0.jpg)
 
+[Example usage video](https://twitter.com/qurihara/status/1046208403612291072)
 
 To compile gc-ops_browser.js (usually you do not have to do this):
 ```bash
