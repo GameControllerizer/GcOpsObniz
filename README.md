@@ -28,3 +28,6 @@ Example:
 [Source](https://github.com/GameControllerizer/GcOpsObniz/blob/master/example-m5.html)
 
 [Run on your smartphone (Chrome recommended)](https://gamecontrollerizer.github.io/GcOpsObniz/example-m5.html)
+
+[Example usage video](https://twitter.com/qurihara/status/1250655057294417921)
+
