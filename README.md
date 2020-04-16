@@ -20,3 +20,11 @@ $ npm install -g browserify
 $ npm install
 $ sh bundle.sh
 ```
+
+# Works on Obniz on M5StickC
+
+Example:
+
+[Source](https://github.com/GameControllerizer/GcOpsObniz/blob/master/example-m5.html)
+
+[Run on your smartphone (Chrome recommended)](https://gamecontrollerizer.github.io/GcOpsObniz/example-m5.html)
